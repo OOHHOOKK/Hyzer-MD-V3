@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6287892711054'] 
-global.mods = [] 
-global.prems = [] 
+global.owner = ['12135521010'] 
+global.mods = ['12135521010'] 
+global.prems = ['12135521010'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Hyzer Official'
-global.numberowner = '6287892711054'
-global.instagram = 'https://instagram.com/hyzer_stfu'
-global.github = 'https://github.com/Hyzerr'
-global.dana = '087892711054'
-global.pulsa = '085212023766'
-global.gopay = '087892711054'
+global.nameowner = 'OH.OK | ^_^'
+global.numberowner = '12135521010'
+global.instagram = 'https://instagram.com/oh.o_k'
+global.github = 'https://github.com/'
+global.dana = 'https://saweria.co/ohok'
+global.pulsa = 'https://saweria.co/ohok'
+global.gopay = 'https://saweria.co/ohok'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'ShiroBot-Md'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://hyzerr-apii.herokuapp.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'OH.OK-Bot'
+global.gc = 'https://chat.whatsapp.com/IpItG3F6PvOLH8jgdm4fe3'
+global.web = 'https://instagram.com/js_mojokerto_official' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/8c471d45b6cedad43cf84.jpg' //ini juga ganti 
-global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
-global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.fotonya1 = 'https://i.ibb.co/0Z5ggBj/a.png' //ganti jadi foto bot mu
+global.fotonya2 = 'https://i.ibb.co/0Z5ggBj/a.png' //ini juga ganti 
+global.lolkey = 'da27bc7b24064f584dab663e' //biar mudah ngegantinya semisal apikeynya expired:v
+global.zenzkey = 'ohok989412345' //ganti jadi apikey lu kalau expired
+global.wm = 'OH.OK | ^_^'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 OH.OK | ^_^ 」'
+global.wm3 = '⫹⫺ OH.OK | ^_^'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://i.ibb.co/0Z5ggBj/a.png'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© OH.OK | ^_^'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
